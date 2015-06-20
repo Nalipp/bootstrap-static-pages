@@ -1,1 +1,1 @@
-This is a bootstrap template with two static pages.
+This is a bootstrap template with static pages.
